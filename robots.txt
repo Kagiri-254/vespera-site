@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.vespera-org.com
+Sitemap: https://www.vespera-org.com/sitemap.xml
